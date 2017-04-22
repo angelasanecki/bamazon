@@ -124,5 +124,4 @@ var displayUpdatedtable = function() {
     });
 
 }
-
 start();
